@@ -1,2 +1,3 @@
 # WebsiteTemplate1
-Ilmaine pohja aloittelijoille!
+Ilmainen pohja aloittelijoille!
+Toteutettu vain käyttäen html ja css!
