@@ -1,0 +1,12 @@
+body {
+    /*Asetetaan taustan väri!*/
+    background-color: rgb(78, 78, 78);
+    /*Valitaan fontti, https://www.hostinger.com/tutorials/best-html-web-fonts Täällä muutamia lisä fontteja!*/
+    font-family: monospace;
+    /*Tekstin väri.*/
+    color: rgb(255, 255, 255);
+    /*Missä teksti sijaitsee.*/
+    text-align: center;
+    /*Tekstin koko.*/
+    font-size: 18px;
+}
